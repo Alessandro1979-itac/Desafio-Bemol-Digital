@@ -33,6 +33,6 @@ Instalar as dependências
 - [yup]: versão 0.29.1
 
 ### Participante: 
-|name|email|present|desafio|
-| -------- | -------- | -------- |-------- | -------- |
-|Alessandro Muniz|muniz.caranha@gmail.com|trueBemol Digital|
+|name            |email                  |present   |desafio      |
+| -------------- | --------------------- | -------- | ----------- |
+|Alessandro Muniz|muniz.caranha@gmail.com|true      |Bemol Digital|
