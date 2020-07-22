@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: #00008B;
+}
+
+.container p {
+  text-align: center;
+  color: #00008B;
+  font-size: 30px;
+}
+
+.container {
+  text-align: center;
+}
+
+.container button {
+  border: none;
+  cursor: pointer;
+  background: #aaaaaa;
+  color: #ffffff;
+  display: inline-block;
+  margin: 0 -2px;
+  padding: 5px 10px;
+  border: 1px solid #666666;
+}
+
+.container button:hover {
+  background: #333333;
+}
