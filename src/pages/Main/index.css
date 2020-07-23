@@ -9,6 +9,7 @@ h1 {
   text-align: center;
   color: #00008B;
   font-size: 30px;
+  margin-bottom: 50px;
 }
 
 .container {
@@ -18,8 +19,7 @@ h1 {
 .container button {
   border: none;
   cursor: pointer;
-  background: #aaaaaa;
-  color: #ffffff;
+  background: #4682B4;
   display: inline-block;
   margin: 0 -2px;
   padding: 5px 10px;
@@ -27,5 +27,5 @@ h1 {
 }
 
 .container button:hover {
-  background: #333333;
+  background: #B0E0E6;
 }
