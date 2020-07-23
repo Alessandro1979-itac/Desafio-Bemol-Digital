@@ -27,6 +27,7 @@ Seu aplicativo está pronto para ser implantado!
 
 - [react]: versão 16.13.1
 - [react-dom]: versão 16.13.1
+- [react-icons]: versão 3.10.0
 - [react-router-dom]: versão 5.2.0
 - [react-scripts]: versão 3.4.1
 - [Formik]: versão 2.1.4
