@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { BsArrowLeft } from 'react-icons/bs';
-import { Formik, Field, Form, ErrorMessage } from 'formik';
 import schema from '../../schema';
+import { Formik, Field, Form, ErrorMessage } from 'formik';
 import Dialog from '../../components/Dialog';
 import './index.css';
 
@@ -40,11 +40,9 @@ class Cadastrar extends Component {
         </Link>
         <Formik
           onSubmit={onSubmit}
-          validationSchema={schema}
           validateOnMount
+          validationSchema={schema}
           initialValues={{
-            name: '',
-            email: '',
             cep: '',
             logradouro: '',
             numero: '',
@@ -52,11 +50,10 @@ class Cadastrar extends Component {
             bairro: '',
             cidade: '',
             uf: '',
-            password: '',
           }}
           render={({ values, errors, touched, isValid, setFieldValue }) => (
             <Form>
-              <div className="form-control-group">
+               <div className="form-control-group">
                 <label>Nome</label>
                 <Field name="name" type="text" />
                 <ErrorMessage name="name" />
@@ -65,10 +62,6 @@ class Cadastrar extends Component {
                 <label>Email</label>
                 <Field name="email" type="email" />
                 <ErrorMessage name="email" />
-              </div>
-              <div className="form-control-group">
-                <label>Senha</label>
-                <Field name="password" type="password" />
               </div>
               <div className="form-control-group">
                 <label>Cep</label>
