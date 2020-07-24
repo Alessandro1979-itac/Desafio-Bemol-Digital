@@ -1,0 +1,41 @@
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+Servidores on premises precisam de um grande aporte inicial para a compra de hardwares,
+sistema operacional e dispositivos periféricos. Além disso, é necessário investir na
+adaptação de uma sala para a alocação do servidor físico, treinamento da equipe de TI
+para instalar e prestar a manutenção corretamente. Por fim, existem os custos da
+realização de rotinas de suporte que envolvem horas de trabalho e atualização de
+softwares, antivírus e sistema operacional.
+Já os servidores em nuvem requerem o pagamento de mensalidades, diminuindo a
+necessidade de investimentos iniciais, compra de itens menos essenciais ou horas
+de manutenção de sua equipe.
+Então por se tratar de uma pequena aplicação eu fico com a On-premise, mesmo com a explicação
+acima mencionado.
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa
+solução, responda qual ferramenta acreditas ser apropriada para o controle de
+tarefas da equipe, a ferramenta é ágil?
+Tem uma ferramenta que uso ela em um curso de capacitação que estou fazendo. Essa
+ferramenta é o Trello talvez seja a ferramenta mais conhecida quando falamos em programas
+para a gestão de tarefas. Com um design simples e intuitivo, é muito fácil utilizar essa
+solução, garantindo a rápida adaptação da sua equipe. Dividido em etapa, o quadro de tarefas
+fornece uma visão geral do que está sendo produzido.
+Por meio de pequenos cards, você pode separar as tarefas “a fazer”, “em andamento” e “concluídas”.
+Dessa forma, o seu controle é muito maior sobre em qual etapa está uma atividade, por exemplo.
+Você pode estipular prazos, prioridades e os responsáveis em cada tarefa, evitando atrasos e mesmo
+a refação.
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+Sim com certeza eu sou capaz de liderar a equipe, como mencionei acima estou participando de um curso
+de capacitação, nesse curso temos um time de 5 integrantes onde eu estou atuando como Scrum Master,
+confesso que não entendia sobre esse assunto, mais agora já estou mais seguro em trabalhar num time
+de desenvolvimento.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+Nessa aplicação que foi desenvolvida apesar de ter uma tela de login bem simples na qual não precisa
+cadastrar usuários pro login, então como uma melhoria eu sugiro essa implementação de se usar um banco de
+dados onde se possa além dos campos como (nome, email, cep entre outros) se possa cadastrar o usuário e
+senha pra logar no sistema.
+
+5. Acha válido esse desafio para o processo que está participando?
+Sim com certeza é válido, todo e qualquer conhecimento adquirido, seja ele através de um desafio,
+ou por outro meio é válido, no meu caso eu aprendi bastante e espero poder contribuir ainda mais.
