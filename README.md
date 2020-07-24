@@ -2,6 +2,13 @@
   <img src="./public/assets/img.jpg">
 </p>
 
+## Informação para o login
+
+user:   admin
+senha:  admin
+
+Não precisa cadastrar outro usuário, essa é uma melhoria futura
+
 ## Instalar as dependências
 
 No diretório do projeto, você pode executar para rodar o projeto:
@@ -32,6 +39,8 @@ Seu aplicativo está pronto para ser implantado!
 - [react-scripts]: versão 3.4.1
 - [Formik]: versão 2.1.4
 - [yup]: versão 0.29.1
+- [classnames]: versão 2.2.6
+- [js-cookie]: versão 2.2.1
 
 ## Participante: 
 |name            |email                  |present   |desafio      |
