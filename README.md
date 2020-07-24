@@ -13,11 +13,11 @@ Não precisa cadastrar outro usuário, essa é uma melhoria futura
 
 No diretório do projeto, você pode executar para rodar o projeto:
 
-## `npm install` ou `yarn install`
+### `npm install` ou `yarn install`
 
 ## Para executar o projeto
 
-## `yarn start` ou `npm start`
+### `yarn start` ou `npm start`
 
 Executa o aplicativo no modo de desenvolvimento.<br />
 abrir [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
